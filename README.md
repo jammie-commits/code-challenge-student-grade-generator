@@ -1,7 +1,4 @@
-#PROJECT NAMES 
-Student Grade Generator
-Speed Detector
-Net Salary Calculator
+#PHASE-1WEEK-CODE-CHALLENGE
 
 #### Date, 2024/03/24
 
